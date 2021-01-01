@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "site" : "sah-hospitals",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
